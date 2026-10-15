@@ -1,73 +1,94 @@
-# Zomato Restaurant Analytics Dashboard
 
-## Project Overview
-The Zomato Restaurant Analytics Dashboard is a data analytics project designed to explore restaurant data and identify insights related to restaurant distribution, ratings, pricing, cuisines, and customer preferences.
+# 🍽️ Zomato Restaurant Analytics Dashboard
 
-The project demonstrates practical data analysis and data visualization skills using a restaurant dataset.
+## 📌 Project Overview
 
-## Objectives
-- Analyse restaurant distribution across cities and countries.
-- Understand restaurant ratings and rating categories.
-- Compare average cost and pricing patterns.
-- Explore popular cuisines and restaurant categories.
-- Identify trends and patterns to support data-driven decisions.
+This project focuses on analysing Zomato restaurant data to understand restaurant distribution, customer ratings, pricing patterns, cuisines, and other restaurant performance indicators.
 
-## Tools & Technologies
-- Microsoft Excel – Data cleaning and preliminary analysis (if used)
-- SQL / MySQL – Data querying and aggregation (if used)
-- Power BI / Tableau – Dashboard development and visualisation (use the tool actually used in this project)
+Interactive dashboards and visual reports are created using Microsoft Excel and Power BI to present data in a clear and understandable format.
 
-## Key Analysis Areas
-- Restaurant count by city or country
-- Average restaurant ratings
-- Average cost for two
-- Cuisine-wise restaurant distribution
-- Online delivery and table booking availability (where present in the dataset)
-- Comparison of restaurant performance across categories
+This project demonstrates practical data analytics and dashboard development skills for an entry-level Data Analyst portfolio.
 
-## Project Workflow
-1. Collected or imported the restaurant dataset.
-2. Inspected the data for missing values, duplicates, and inconsistent formats.
-3. Cleaned and transformed the data.
-4. Analysed restaurant metrics and relevant KPIs.
-5. Created visualisations and an interactive dashboard.
-6. Reviewed the results to identify meaningful patterns.
+## 🎯 Project Objectives
 
-## Dashboard Preview
-Add your dashboard screenshot to this repository and replace the example filename below.
+- Analyse restaurant data and identify key trends.
+- Understand restaurant ratings and pricing patterns.
+- Compare restaurant-related metrics across available categories.
+- Present key performance indicators (KPIs) through dashboards.
+- Convert raw data into meaningful visual insights.
+- Support data-driven decision-making through data visualisation.
 
-![Zomato Restaurant Analytics Dashboard](images/zomato-dashboard.png)
+## 🛠️ Tools & Technologies
 
-## Key Insights
-Document 3–5 findings from your actual dashboard, for example:
-- Which city has the highest number of restaurants?
-- Which cuisine categories are most common?
-- What is the distribution of restaurant ratings?
-- How does average cost vary by location?
-- What proportion of restaurants offer online delivery?
+- **Microsoft Excel:** Data cleaning, analysis, charts, PivotTables and dashboard creation.
+- **Microsoft Power BI:** Data transformation, data visualisation, KPI cards and interactive reporting.
+- **Data Analytics:** Exploratory analysis, trend analysis and performance comparisons.
 
-Replace these questions with findings supported by your dataset. Do not report unverified numbers.
+## 📊 Dashboard Previews
 
-## Repository Structure
-- `data/` – Dataset, if permitted to share
-- `images/` – Dashboard screenshots
-- `sql/` – SQL queries, if used
-- `README.md` – Project documentation
+### 1. Zomato Analytics — Excel Dashboard
 
-## Skills Demonstrated
-- Data cleaning and preparation
-- Exploratory data analysis
-- KPI analysis
-- Data visualisation
-- Dashboard development
-- Business insight communication
+The Excel dashboard presents restaurant analytics through visual reports and summary metrics.
 
-## Business Value
-This project demonstrates how restaurant data can be organised and analysed to understand market distribution, pricing, ratings, and service availability. These insights can help stakeholders explore restaurant trends and make informed decisions.
+![Zomato Analytics Excel Dashboard](Zomato%20Analytics%20Excel%20Dashboard.png)
 
-## Author
-**Kalpesh Berde**  
-Aspiring Data Analyst
+### 2. Zomato Analytics — Power BI Dashboard
 
-## Disclaimer
-This is a portfolio project for learning and demonstration. Findings depend on the dataset used and should not be interpreted as official Zomato business results.
+The Power BI dashboard presents restaurant-related metrics and visual comparisons in an interactive reporting environment.
+
+![Zomato Analytics Power BI Dashboard](Zomato%20Analytics%20PowerBi%20Dashboard.png)
+
+## 🔍 Key Areas of Analysis
+
+Depending on the fields available in the dataset, the analysis may include:
+
+- Restaurant ratings and rating distribution.
+- Average cost and pricing comparisons.
+- Restaurant distribution by city or location.
+- Cuisine popularity and restaurant categories.
+- Online ordering and table booking availability.
+- Comparisons between restaurant performance indicators.
+
+## 💡 Business Value
+
+The dashboards can help users explore restaurant market patterns, compare available restaurant metrics, understand rating and pricing trends, and identify areas for further investigation.
+
+## 📁 Repository Structure
+
+```text
+Zomato__Analytics/
+│
+├── README.md
+├── Zomato Analytics Excel Dashboard.png
+└── Zomato Analytics PowerBi Dashboard.png
+```
+
+## 👨‍💻 Skills Demonstrated
+
+- Data Analysis
+- Data Visualisation
+- Microsoft Excel
+- Microsoft Power BI
+- Dashboard Development
+- KPI Reporting
+- Analytical Thinking
+- Business Insights
+
+## 🚀 Future Improvements
+
+- Add the original dataset and document its source.
+- Include SQL queries for restaurant data analysis.
+- Add more detailed findings supported by actual data.
+- Publish a shareable interactive dashboard.
+- Include a project methodology and data-cleaning steps.
+
+## 👤 Author
+
+**Kalpesh Berde**
+
+- GitHub: [@KalpeshBerde](https://github.com/KalpeshBerde)
+- Project Repository: [Zomato Analytics](https://github.com/KalpeshBerde/Zomato__Analytics)
+
+---
+
+⭐ If you find this project useful, feel free to explore the dashboards and provide feedback.
